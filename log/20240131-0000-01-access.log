@@ -1,0 +1,6 @@
+::1 - - [30/Jan/2024:04:02:17 +0000] "POST /api/v1/categories HTTP/1.1" 404 157 "-" "PostmanRuntime/7.36.1"
+::1 - - [30/Jan/2024:04:03:42 +0000] "GET /api/v1/categories HTTP/1.1" 404 156 "-" "PostmanRuntime/7.36.1"
+::1 - - [30/Jan/2024:04:05:23 +0000] "GET /api/v1/categories HTTP/1.1" 404 156 "-" "PostmanRuntime/7.36.1"
+::1 - - [30/Jan/2024:04:05:24 +0000] "GET /api/v1/categories HTTP/1.1" 404 156 "-" "PostmanRuntime/7.36.1"
+::1 - - [30/Jan/2024:04:05:25 +0000] "GET /api/v1/categories HTTP/1.1" 404 156 "-" "PostmanRuntime/7.36.1"
+::1 - - [31/Jan/2024:02:31:13 +0000] "DELETE /api/v1/categories65b9b047276e47f56848a086 HTTP/1.1" 404 183 "-" "PostmanRuntime/7.36.1"

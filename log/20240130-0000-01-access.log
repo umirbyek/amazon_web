@@ -1,0 +1,5 @@
+::1 - - [29/Jan/2024:08:54:11 +0000] "POST /api/v1/categories HTTP/1.1" 200 64 "-" "PostmanRuntime/7.36.1"
+::1 - - [29/Jan/2024:09:16:29 +0000] "GET /api/v1/categories HTTP/1.1" 200 96 "-" "PostmanRuntime/7.36.1"
+::1 - - [29/Jan/2024:09:19:18 +0000] "GET /api/v1/categories/12 HTTP/1.1" 200 84 "-" "PostmanRuntime/7.36.1"
+::1 - - [29/Jan/2024:09:21:47 +0000] "POST /api/v1/categories HTTP/1.1" 200 64 "-" "PostmanRuntime/7.36.1"
+::1 - - [29/Jan/2024:09:34:22 +0000] "DELETE /api/v1/categories/12 HTTP/1.1" 200 67 "-" "PostmanRuntime/7.36.1"
